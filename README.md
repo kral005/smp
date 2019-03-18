@@ -1,0 +1,2 @@
+# smp
+sosya medya paylaşım
